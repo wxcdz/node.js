@@ -1,0 +1,2 @@
+$ = require('jQuery')
+console.log($);
